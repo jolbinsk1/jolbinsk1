@@ -1,4 +1,4 @@
-<h3 align="center">Hi all! My name is Julian and I am an aspiring data analyst with a background in research psychology.</h3>
+<h3 align="left">Hi all! My name is Julian and I am an aspiring data analyst with a background in research psychology.</h3>
 
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I’m currently learning **PANDAS and using python for data analysis**
