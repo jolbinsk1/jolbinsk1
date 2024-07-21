@@ -1,6 +1,6 @@
 <h3 align="center">Hi all! My name is Julian and I am an aspiring data analyst with a background in research psychology.</h3>
 
-<p>
+<h4>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I’m currently learning **PANDAS and using python for data analysis**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👨‍💻 All of my projects are available at [https://jolbinsk1.github.io/JulianOlbinski.github.io/](https://jolbinsk1.github.io/JulianOlbinski.github.io/)<br>
@@ -13,7 +13,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚡ Fun fact **I'm an amateur folk musician who loves anything to do with fingerpicking, harmonicas, and foot tambourines**<br>
 
-</p>
+<h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
