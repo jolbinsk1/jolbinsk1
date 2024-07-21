@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📫 How to reach me **olbinski.julian@gmail.com**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📄 Here's my resume:<br>
-https://www.canva.com/design/DAF8TYP6Ya4/j229JqtB275yT9O_LYweaw/view?utm_content=DAF8TYP6Ya4&utm_campaign=designshare&utm_medium=link&utm_source=editor
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.canva.com/design/DAF8TYP6Ya4/j229JqtB275yT9O_LYweaw/view?utm_content=DAF8TYP6Ya4&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚡ Fun fact **I'm an amateur folk musician who loves anything to do with fingerpicking, harmonicas, and foot tambourines**
 </p>
