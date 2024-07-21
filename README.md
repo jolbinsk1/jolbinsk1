@@ -1,14 +1,14 @@
 <h3 align="center">Hi all! My name is Julian and I am an aspiring data analyst with a background in research psychology.</h3>
 
-- 🌱 I’m currently learning **PANDAS and using python for data analysis**
+    - 🌱 I’m currently learning **PANDAS and using python for data analysis**
 
-- 👨‍💻 All of my projects are available at [https://jolbinsk1.github.io/JulianOlbinski.github.io/](https://jolbinsk1.github.io/JulianOlbinski.github.io/)
+    - 👨‍💻 All of my projects are available at [https://jolbinsk1.github.io/JulianOlbinski.github.io/](https://jolbinsk1.github.io/JulianOlbinski.github.io/)
 
-- 📫 How to reach me **olbinski.julian@gmail.com**
+    - 📫 How to reach me **olbinski.julian@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAF8TYP6Ya4/j229JqtB275yT9O_LYweaw/view?utm_content=DAF8TYP6Ya4&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF8TYP6Ya4/j229JqtB275yT9O_LYweaw/view?utm_content=DAF8TYP6Ya4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+    - 📄 Know about my experiences [https://www.canva.com/design/DAF8TYP6Ya4/j229JqtB275yT9O_LYweaw/view?utm_content=DAF8TYP6Ya4&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF8TYP6Ya4/j229JqtB275yT9O_LYweaw/view?utm_content=DAF8TYP6Ya4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-- ⚡ Fun fact **I'm an amateur folk musician who loves anything to do with fingerpicking, harmonicas, and foot tambourines**
+    - ⚡ Fun fact **I'm an amateur folk musician who loves anything to do with fingerpicking, harmonicas, and foot tambourines**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
