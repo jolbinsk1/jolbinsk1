@@ -1,4 +1,3 @@
-<h1 align="center">/Users/julian.olbinski/Desktop/Data_Analyst/html5up-dimension Julian Olbinski</h1>
 <h3 align="center">Hi all! My name is Julian and I am an aspiring data analyst with a background in research psychology.</h3>
 
 - 🌱 I’m currently learning **PANDAS and using python for data analysis**
