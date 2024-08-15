@@ -7,7 +7,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📫 How to reach me: olbinski.julian@gmail.com
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📄 Here's my resume: https://shorturl.at/eRxLg
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📄 Here's my resume: https://shorturl.at/jHpBy
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚡ Fun fact **I'm an amateur folk musician who loves anything to do with fingerpicking, harmonicas, and foot tambourines**
 </p>
