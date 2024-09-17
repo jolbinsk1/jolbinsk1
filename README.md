@@ -3,7 +3,7 @@
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I’m currently learning PANDAS and using python for data analysis
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👨‍💻 All of my projects are available at [https://jolbinsk1.github.io/JulianOlbinski.github.io/](https://jolbinsk1.github.io/JulianOlbinski.github.io/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👨‍💻 All of my projects are available at [https://jolbinsk1.github.io/JulianOlbinski.github.io/](https://www.julian-olbinski.com)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📫 How to reach me: olbinski.julian@gmail.com
 
