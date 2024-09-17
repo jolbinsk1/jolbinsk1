@@ -3,11 +3,11 @@
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I’m currently learning PANDAS and using python for data analysis
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👨‍💻 All of my projects are available at (https://www.julian-olbinski.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👨‍💻 All of my projects are available at: https://www.julian-olbinski.com
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📫 How to reach me: olbinski.julian@gmail.com
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📄 Here's my resume: https://shorturl.at/jHpBy
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📄 Here's my resume: https://www.canva.com/design/DAF8TYP6Ya4/e37QbRHiH3ZVHI9Kl2pUbw/view
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚡ Fun fact **I'm an amateur folk musician who loves anything to do with fingerpicking, harmonicas, and foot tambourines**
 </p>
