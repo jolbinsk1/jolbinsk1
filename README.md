@@ -1,7 +1,7 @@
 <h3 align="left">Hi all! My name is Julian and I am an aspiring data analyst with a background in research psychology.</h3>
 
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I’m currently learning time-series analysis with python
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I’m currently learning to create interactive dashboards with Dash and Plotly
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👨‍💻 All of my projects are available at: https://www.julian-olbinski.com
 
