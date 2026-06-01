@@ -1,4 +1,4 @@
-<h3 align="left">Hi all! My name is Julian and I am an aspiring data analyst with a background in research psychology.</h3>
+<h3 align="left">Hi all! My name is Julian and I am a data scientist with experience in medical imaging analysis and research psychology.</h3>
 
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I’m currently learning to create interactive dashboards with Dash and Plotly
