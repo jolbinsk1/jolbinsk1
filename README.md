@@ -1,7 +1,7 @@
 <h3 align="left">Hi all! My name is Julian and I am a data scientist with experience in medical imaging analysis and research psychology.</h3>
 
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I’m currently learning to create interactive dashboards with Dash and Plotly
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I recently completed an MSc in Data Science from Tilburg University
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👨‍💻 All of my projects are available at: https://www.julian-olbinski.com
 
