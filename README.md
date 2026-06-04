@@ -22,3 +22,5 @@
 <p align="left"> 
   
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,spark,sklearn,r,vscode,css,mysql,postgres,anaconda,azure,bash,git,jupyter,latex,linux&perline=5)](https://skillicons.dev)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
