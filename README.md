@@ -21,4 +21,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,r,vscode,mhtml,svg,ai,css,mysql,postgres,anaconda,azure,bash,git,latex,linux&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,spark,sklearn,r,vscode,css,mysql,postgres,anaconda,azure,bash,git,jupyter,latex,linux&perline=5)](https://skillicons.dev)
