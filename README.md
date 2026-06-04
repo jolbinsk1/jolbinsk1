@@ -1,4 +1,4 @@
-<h3 align="left"> I'm Julian, and I am a data scientist with experience in medical imaging analysis and research psychology.</h3>
+<h3 align="left"> I'm Julian, and I am a data scientist passionate about applying deep learning to clinical problems. </h3>
 
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I hold an MSc in data science from Tilburg University and an MSc in health psychology from Maastricht University.
@@ -9,7 +9,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📄 Here's my resume: https://www.canva.com/design/DAGUmJgs3kA/Y9KYbcgXYFo1A3E1NfHF5Q/view
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚡ Fun fact **I'm an amateur folk musician who loves anything to do with fingerpicking, harmonicas, and foot tambourines**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚡ Fun fact **I'm an amateur folk musician who loves anything to do with fingerpicking, harmonicas, and tambourines**
 </p>
 
 
