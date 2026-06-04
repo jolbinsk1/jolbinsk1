@@ -28,6 +28,6 @@
 [![My Skills](https://skillicons.dev/icons?i=anaconda,azure,bash,git,linux&perline=5)](https://skillicons.dev)
 
 
-<h3>Databases and Other</h3>
+<h3>Databases/Other</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=r,mysql,postgres&perline=4)](https://skillicons.dev)
